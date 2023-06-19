@@ -6,6 +6,8 @@
 ex.csproj
 README.md
 .gitignore
+ex1.csproj
+ex3.csproj
 
 # User-specific files
 *.rsuser
